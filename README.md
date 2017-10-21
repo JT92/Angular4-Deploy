@@ -10,6 +10,9 @@ https://jt92.github.io/Angular4-Deploy/
 Firebase:
 https://jt92-angular4-deploy.firebaseapp.com
 
+Heroku:
+https://jt92-angular4-deploy.herokuapp.com/
+
 
 ## Development server
 
