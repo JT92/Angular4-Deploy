@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.4.
 
+This App has been deployed and can be previewed at the following locations:
+
+Github Pages:
+https://jt92.github.io/Angular4-Deploy/
+
+Firebase:
+https://jt92-angular4-deploy.firebaseapp.com
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
